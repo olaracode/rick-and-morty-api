@@ -8,8 +8,6 @@ Create flask API's in minutes, [📹 watch the video tutorial](https://youtu.be/
 - Integrated with Pipenv for package managing.
 - Fast deloyment to render.com or heroku with `$ pipenv run deploy`.
 
-## 1) Installation
-
 This template installs itself in a few seconds if you open it for free with Codespaces (recommended) or Gitpod.
 Skip this installation steps and jump to step 2 if you decide to use any of those services.
 
